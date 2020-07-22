@@ -36,4 +36,4 @@ exit
 ```
 
 # Screenshot
-![Screenshot](./screenshot.jpg)
+![screenshot](https://user-images.githubusercontent.com/55665556/88153075-37b91280-cc05-11ea-95ef-d59eb2e9e10b.jpg)
