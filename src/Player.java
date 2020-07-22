@@ -48,7 +48,7 @@ public class Player {
         int column;
 
         do{
-            System.out.print("Enter coordinates: ");
+            System.out.print("Enter coordinates (" + me + ") : ");
             String line = scanner.nextLine();
 
             if( Character.isDigit(line.charAt(0)) && Character.isDigit(line.charAt(2))) {
